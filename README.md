@@ -1,5 +1,5 @@
 # Circling-between-mouse
-Make a circle that cirling around the mouse
+Make a dot animation that cirling around the mouse
 
 Output :  \
 ![GitHub Logo](/output.png)
